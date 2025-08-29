@@ -3,10 +3,11 @@
 
 - 🌱 I’m currently strengthening my experience in **.NET (C#), Angular, Java, and JavaScript, aiming to expand my technical expertise across both backend and frontend development.**
 
-- 📫 How to reach me **alfersanchez05@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 How to reach me **alfersanchez05@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
